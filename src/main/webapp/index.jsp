@@ -27,8 +27,6 @@ background-color: #d9eff0;
 <h1 class="text-center text-white">Online Tourist Guide </h1>
 </div>
 
-<%Connection conn=dbConnect.getConn();
-out.println(conn);%>
 
 <div class="container">
 			<h3 class="text-center">Top Cities</h3>
