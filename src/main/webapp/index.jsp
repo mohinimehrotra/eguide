@@ -1,4 +1,5 @@
-
+<%@page import="java.sql.Connection"%>
+<%@page import="com.db.dbConnect"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
@@ -26,7 +27,8 @@ background-color: #d9eff0;
 <h1 class="text-center text-white">Online Tourist Guide </h1>
 </div>
 
-
+<%Connection conn=dbConnect.getConn();
+out.println(conn);%>
 
 <div class="container">
 			<h3 class="text-center">Top Cities</h3>
