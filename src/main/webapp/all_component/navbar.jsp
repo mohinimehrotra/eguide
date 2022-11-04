@@ -1,4 +1,4 @@
-<div class="contaniner-fluid" style="height:7px; background-color:#607d8b;"></div>
+<div class="contaniner-fluid" style="height:7px; background-color:#030202;"></div>
 <div class="contaniner-fluid p-3">
 <div class="row">
 <div class= "col-md-3 text-success">
@@ -27,21 +27,21 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.jsp">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link active" href="#"><i class="fa-solid fa-info"></i>  About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" href="#"><i class="fa-solid fa-map-pin"></i>  Cities</a>
+        <a href="viewall.jsp" class="nav-link active" href="#"><i class="fa-solid fa-map-pin"></i>  Cities</a>
       </li>
       
       
      
     </ul>
     <form class="form-inline my-2 my-lg-0">
-      <button class="btn btn-light my-2 my-sm-0" type="submit"><i class="fa-solid fa-gear"></i> Settings</button>
-      <button class="btn btn-light my-2 my-sm-0" type="submit"><i class="fa-solid fa-phone"></i> Contact Us</button>
+      <%-- <a  class="btn btn-light my-2 my-sm-0" ><i class="fa-solid fa-gear"></i> Settings</button>--%>
+      <a href="contact.jsp" class="btn btn-light my-2 my-sm-0" ><i class="fa-solid fa-phone"></i> Contact Us</a>
     </form>
   </div>
 </nav>
