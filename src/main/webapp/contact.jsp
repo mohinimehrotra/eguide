@@ -24,21 +24,31 @@
  <div class="col-md-4">
 				<div class="card crd-ho">
 					<div class="card-body text-center">
-					<img alt="" src="citiesimg/m.jpg" style="width: 200px; height: 150px" class="img-thumblin">
+					<img alt="" src="icon/mail.jpg" style="width: 200px; height: 230px" class="img-thumblin">
+					<p>Email</p>
+					<p>YourOwnEGuide@gmail.com</p>
+					
 					</div>
 					</div>
 					</div>
 		 <div class="col-md-4">
 				<div class="card crd-ho">
 					<div class="card-body text-center">
-					<img alt="" src="citiesimg/m.jpg" style="width: 200px; height: 150px" class="img-thumblin">
+					<img alt="" src="icon/call.jpg" style="width: 200px; height: 230px" class="img-thumblin">
+					<p>Contact Us</p>
+					<p>+1-866-832-3090</p>
+					
 					</div>
 					</div>
 					</div>
 					 <div class="col-md-4">
 					 <div class="card crd-ho">
 					<div class="card-body text-center">
-					<img alt="" src="citiesimg/m.jpg" style="width: 200px; height: 150px" class="img-thumblin">
+					<img alt="" src="icon/pin.jpg" style="width: 200px; height: 230px" class="img-thumblin">
+					<p>Location</p>
+					<p>Nalanda Campus, RNT Marg, Chhoti Gwaltoli, 
+					Indore, Madhya Pradesh 452001</p>
+					
 					</div>
 					</div>
 					</div>			

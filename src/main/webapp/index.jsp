@@ -11,7 +11,7 @@
 <%@ include file="all_component/allCss.jsp" %>
 <style type="text/css">
 .back-img {
-   background: url("img/c.jpg");
+   background: url("img/city.jpg");
    height: 40vh;
    width: 100%;
    background-size: cover;

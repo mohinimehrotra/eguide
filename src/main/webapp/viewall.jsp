@@ -13,7 +13,7 @@
 <%@include file="all_component/navbar.jsp"%>
 
 <div class="container">
-			<h1 class="text-center">All Cities</h1>
+			<h1 class="text-center">ALL CITIES</h1>
 			<div class="row">
 			
 			

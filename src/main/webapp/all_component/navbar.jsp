@@ -30,7 +30,7 @@
         <a class="nav-link" href="index.jsp">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" href="#"><i class="fa-solid fa-info"></i>  About</a>
+        <a href="about.jsp" class="nav-link active" href="#"><i class="fa-solid fa-info"></i>  About</a>
       </li>
       <li class="nav-item">
         <a href="viewall.jsp" class="nav-link active" href="#"><i class="fa-solid fa-map-pin"></i>  Cities</a>
