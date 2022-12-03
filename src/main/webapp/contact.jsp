@@ -16,7 +16,7 @@
 }</style>
 </head>
 <body style="background-color:#E8ebef;">
-<%@ include file="all_component/navbar.jsp" %>
+<%@ include file="all_component/navbar1.jsp" %>
 <div class="conatainer-fluid back-img">
 <h1 class="text-center text-white ">GET IN TOUCH </h1>
  </div>

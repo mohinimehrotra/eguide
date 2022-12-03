@@ -9,8 +9,8 @@
 <title>Eguide: view all</title>
 <%@include file="all_component/allCss.jsp"%>
 </head>
-<body style= background-color:#f0f1f2;>
-<%@include file="all_component/navbar.jsp"%>
+<body style= background-color:white;>
+<%@include file="all_component/navbar1.jsp"%>
 
 <div class="container">
 			<h1 class="text-center">ALL CITIES</h1>
@@ -25,7 +25,7 @@
 <p>Mumbai</p>
 <p>Maharashtra,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="mumbai.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -39,7 +39,7 @@
 <p>Indore</p>
 <p>Madhya Pradesh,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="indore.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -53,7 +53,7 @@
 <p>Jaipur</p>
 <p>Rajasthan,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="jaipur.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@
 <p>Ahemdabad</p>
 <p>Gujarat,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit</a>
+<a href="ahemdabad.jsp" class="btn btn-danger btn-sm text-white"> Visit</a>
 </div>
 </div>
 </div>
@@ -83,7 +83,7 @@
 <p>Bengaluru</p>
 <p>Karnataka,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit</a>
+<a href="bengaluru.jsp" class="btn btn-danger btn-sm text-white"> Visit</a>
 </div>
 </div>
 </div>
@@ -97,7 +97,7 @@
 <p>Kolkata</p>
 <p>West Bengal,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="kolkata.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -111,7 +111,7 @@
 <p>Hyedrabad</p>
 <p>Telangana,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="hyedrabad.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -125,7 +125,7 @@
 <p>Chennai</p>
 <p>Tamil Nadu,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="chennai.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -139,7 +139,7 @@
 <p>Agra</p>
 <p>Uttar Pradesh,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="agra.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -153,7 +153,7 @@
 <p>Kochi</p>
 <p>Kerela,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="kochi.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -167,7 +167,7 @@
 <p>New Delhi</p>
 <p>Delhi,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="newdelhi.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -181,7 +181,7 @@
 <p>Chandigarh</p>
 <p>punjab & haryana,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit</a>
+<a href="chandigarh.jsp" class="btn btn-danger btn-sm text-white"> Visit</a>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@
 <p>Patna</p>
 <p>Bihar,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="patna.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -209,7 +209,7 @@
 <p>Amaravati</p>
 <p>Andhra Pradesh,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit</a>
+<a href="amaravati.jsp" class="btn btn-danger btn-sm text-white"> Visit</a>
 </div>
 </div>
 </div>
@@ -223,7 +223,7 @@
 <p>Ranchi</p>
 <p>Jharkhand,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit </a>
+<a href="ranchi.jsp" class="btn btn-danger btn-sm text-white"> Visit </a>
 </div>
 </div>
 </div>
@@ -237,7 +237,7 @@
 <p>Bhubneshwar</p>
 <p>Odisha,India</p>
 <div class="text-center mt-3">
-<a href="" class="btn btn-danger btn-sm text-white"> Visit</a>
+<a href="bhubneshwar.jsp" class="btn btn-danger btn-sm text-white"> Visit</a>
 </div>
 </div>
 </div>

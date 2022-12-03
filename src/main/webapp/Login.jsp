@@ -11,7 +11,7 @@
 <%@include file="all_component/allCss.jsp"%>
 </head>
 <body style= background-color:#f0f1f2;>
-	<%@include file="all_component/navbar.jsp"%>
+	<%@include file="all_component/navbar1.jsp"%>
 	<div class="container">
 	<div class="row mt-2">
 			<div class="col-md-4 offset-md-4">
